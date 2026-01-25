@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
