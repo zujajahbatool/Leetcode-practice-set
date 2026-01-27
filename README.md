@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0492-construct-the-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
