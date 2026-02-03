@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0066-plus-one) |
+| [1200-minimum-absolute-difference](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/1200-minimum-absolute-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
