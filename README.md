@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0066-plus-one) |
 | [1200-minimum-absolute-difference](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/1200-minimum-absolute-difference) |
+| [3379-transformed-array](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0415-add-strings) |
+| [3379-transformed-array](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/3379-transformed-array) |
 ## Bit Manipulation
 |  |
 | ------- |
