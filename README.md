@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0066-plus-one) |
 | [1200-minimum-absolute-difference](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/1200-minimum-absolute-difference) |
 | [3379-transformed-array](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/3379-transformed-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/1025-divisor-game) |
 ## Memoization
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/1200-minimum-absolute-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
