@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0066-plus-one) |
 | [1200-minimum-absolute-difference](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/1200-minimum-absolute-difference) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0504-base-7) |
 ## Simulation
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
