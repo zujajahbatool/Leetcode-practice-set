@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0066-plus-one) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/zujajahbatool/Leetcode-practice-set/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
